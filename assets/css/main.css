@@ -622,6 +622,12 @@ input, select, textarea {
 
 /* Image */
 
+	.image.main #profile {
+		object-fit: cover;
+		width: 100%;
+
+	}
+
 	.image {
 		border-radius: 4px;
 		border: 0;
